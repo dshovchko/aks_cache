@@ -1,4 +1,4 @@
-This is last patches for Textpattern plugin aks_cache (http://textpattern.org.ua/plugins/aks_cache) that allows you to store cache in the database or files.
+This is a modified version of the Textpattern plugin aks_cache (http://textpattern.org.ua/plugins/aks_cache) that allows you to store cache in the database or files.
 
 To install, grab the current version of the compressed plugin (aks_cache.txt) and paste into the plugin field in Textpattern.
 
